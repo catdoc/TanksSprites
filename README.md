@@ -6,4 +6,4 @@ Licensed under Creative Commons (CC0) http://creativecommons.org/publicdomain/ze
  You may use these graphics in personal and commercial projects.
  Credit would be nice but is not mandatory.
  
- 
+ ![Sample](https://github.com/isaacdarcilla/TanksSprites/blob/master/Sample.png)
